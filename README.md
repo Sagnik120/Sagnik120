@@ -102,7 +102,7 @@ me.say_hi()
 ## 🎓 Education
 
 
-| 🏛️ | Degree | Institution | Score | Year |
+| 🏛️ | Degree | Institution | Year |
 |:---:|---|---|:---:|:---:|
 | 🔬 | **M.Tech — Computer Science & Engineering** | Indian Institute of Technology, Jodhpur | 2025–Present |
 | 💡 | **B.Tech — Information Technology** | Vellore Institute of Technology, Vellore | 2021–2025 |
