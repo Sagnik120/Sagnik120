@@ -101,29 +101,13 @@ me.say_hi()
 
 ## 🎓 Education
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                        🎓 ACADEMIC JOURNEY                          ║
-╠══════════════════╦══════════════════════════╦══════════╦════════════╣
-║  Degree          ║  Institution             ║  Score   ║  Year      ║
-╠══════════════════╬══════════════════════════╬══════════╬════════════╣
-║  M.Tech — CSE    ║  IIT Jodhpur             ║  8.625   ║ 2025–Now   ║
-║  B.Tech — IT     ║  VIT Vellore             ║  9.19    ║ 2021–2025  ║
-║  Class XII       ║  Debagram S.A. Vidyapith ║  75.20%  ║  2021      ║
-║  Class X         ║  Debagram S.A. Vidyapith ║  74.43%  ║  2019      ║
-╚══════════════════╩══════════════════════════╩══════════╩════════════╝
-```
-
-</div>
 
 | 🏛️ | Degree | Institution | Score | Year |
 |:---:|---|---|:---:|:---:|
-| 🔬 | **M.Tech — Computer Science & Engineering** | Indian Institute of Technology, Jodhpur | `8.625 CGPA` | 2025–Present |
-| 💡 | **B.Tech — Information Technology** | Vellore Institute of Technology, Vellore | `9.19 CGPA` | 2021–2025 |
-| 📘 | **Class XII** | Debagram S.A. Vidyapith (H.S.) | `75.20%` | 2021 |
-| 📗 | **Class X** | Debagram S.A. Vidyapith (H.S.) | `74.43%` | 2019 |
+| 🔬 | **M.Tech — Computer Science & Engineering** | Indian Institute of Technology, Jodhpur | 2025–Present |
+| 💡 | **B.Tech — Information Technology** | Vellore Institute of Technology, Vellore | 2021–2025 |
+| 📘 | **Class XII** | Debagram S.A. Vidyapith (H.S.) | 2021 |
+| 📗 | **Class X** | Debagram S.A. Vidyapith (H.S.) | 2019 |
 
 ---
 
