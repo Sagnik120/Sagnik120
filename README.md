@@ -84,45 +84,6 @@ me.say_hi()
 
 ---
 
-## 🏗️ Featured Projects
-
-<div align="center">
-
-### 🛒 Stationary Hub
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sagnik120)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-> 🤖 Chatbot-powered stationery ordering web app. Users interact with **GYAN**, an NLP chatbot built on Dialogflow, to browse and order items conversationally. Full-stack with Flask + MySQL backend and dynamic HTML/CSS/JS frontend.
-
----
-
-### 📝 PrepEz — Online Exam Platform
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sagnik120)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_1.5_Pro-8E75B2?style=flat-square&logo=google&logoColor=white)
-
-> 🎓 Comprehensive exam platform with test creation, quiz management & **real-time AI proctoring**. Integrated **Gemini 1.5 Pro** for automated grading & personalized feedback. Head-movement detection via OpenCV Haarcascade deployed on Render.
-
----
-
-### 🧠 Brain Stroke Prediction System
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sagnik120)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC5B2A?style=flat-square&logo=xgboost&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_Flash-8E75B2?style=flat-square&logo=google&logoColor=white)
-
-> 🔬 End-to-end ML app achieving **98.85% accuracy** in stroke risk prediction. Built Logistic Regression & SVM from scratch. Used **XAI (LIME)** for top-3 feature attribution, and **Gemini 1.5 Flash** to generate patient-friendly lifestyle recommendations.
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
