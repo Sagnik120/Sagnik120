@@ -48,6 +48,8 @@ me.say_hi()
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL" title="SQL"/>
+  <img src="https://skillicons.dev/icons?i=r" height="40" alt="R" title="R"/>
+  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="MATLAB" title="MATLAB"/>
 </p>
 
 ### 🧰 Frameworks & Libraries
