@@ -82,6 +82,7 @@ me.say_hi()
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=swagger" height="40" alt="Swagger" title="Swagger"/>
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma"/>
 </p>
 
