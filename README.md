@@ -119,7 +119,7 @@ me.say_hi()
 
 | 🎖️ | Certification | Issuer |
 |:---:|---|---|
-| 🐍 | **Scientific Computing with Python** | [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/fcc-7da11f20-c74a-4c8d-a892-619735fe8c43/python-v9) |
+| 🐍 | **Python** | [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/fcc-7da11f20-c74a-4c8d-a892-619735fe8c43/python-v9) |
 | 📊 | **Data Analysis** | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) |
 | ☁️ | **Cloud Fundamentals — AWS Cloud Practitioner** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 | 💻 | **Software Development** | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) |
