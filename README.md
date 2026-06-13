@@ -62,7 +62,6 @@ me.say_hi()
   <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV" title="OpenCV"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" title="TensorFlow"/>
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI"/>
-<img src="https://skillicons.dev/icons?i=rest" height="40" alt="REST API" title="REST API"/>
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -82,7 +81,6 @@ me.say_hi()
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman"/>
-  <img src="https://skillicons.dev/icons?i=swagger" height="40" alt="Swagger" title="Swagger"/>
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma"/>
 </p>
 
