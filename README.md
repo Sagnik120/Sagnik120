@@ -117,12 +117,13 @@ me.say_hi()
 
 <div align="center">
 
-| 🏆 | Certificate | Issuer | Year |
-|:---:|---|---|:---:|
-| 📊 | **Data Analysis** | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | `2024` |
-| ☁️ | **Cloud Fundamentals — AWS Cloud Practitioner** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | `2024` |
-| 💻 | **Software Development** | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | `2024` |
-| 🏭 | **Industry 4.0 & Enabling Technologies** | ![VIT](https://img.shields.io/badge/VIT-8B0000?style=flat-square&logoColor=white) | `2024` |
+| 🎖️ | Certification | Issuer |
+|:---:|---|---|
+| 🐍 | **Scientific Computing with Python** | [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/fcc-7da11f20-c74a-4c8d-a892-619735fe8c43/python-v9) |
+| 📊 | **Data Analysis** | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) |
+| ☁️ | **Cloud Fundamentals — AWS Cloud Practitioner** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| 💻 | **Software Development** | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) |
+| 🏭 | **Industry 4.0 & Enabling Technologies** | ![VIT](https://img.shields.io/badge/VIT-8B0000?style=flat-square&logoColor=white) |
 
 </div>
 
