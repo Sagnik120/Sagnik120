@@ -93,9 +93,13 @@ me.say_hi()
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sagnik120&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sagnik120&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagnik120&theme=tokyo-night&hide_border=true&area=true)
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagnik120&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sagnik120&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
