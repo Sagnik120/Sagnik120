@@ -127,7 +127,7 @@ me.say_hi()
 | 📊 | **Data Analysis** | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) |
 | ☁️ | **Cloud Fundamentals — AWS Cloud Practitioner** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 | 💻 | **Software Development** | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) |
-| 🤖 | **[Introduction to Artificial Intelligence](https://skills.yourlearning.ibm.com/certificate/share/28227c5e1cewogICJvYmplY3RJZWN0IDogIkFMTS1DT1VSU0VfNDA1ODkxOCIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAibGVhcm5lckNOVU0iIDogIjgwNDU1NDNSRUciCn0=46bb2dabae-10)** | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) |
+| 🤖 | **Introduction to Artificial Intelligence** | [![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white)](https://skills.yourlearning.ibm.com/certificate/share/28227c5e1cewogICJvYmplY3RJZCIgOiAiQUxNLUNPVVJTRV80MDU4OTE4IiwKICAib2JqZWN0VHlwZSIgOiAiQUNUSVZJVFkiLAogICJsZWFybmVyQ05VTSIgOiAiODA0NTU0M1JFRyIKfQ46bb2dabae-10) |
 | 🏭 | **Industry 4.0 & Enabling Technologies** | ![VIT](https://img.shields.io/badge/VIT-8B0000?style=flat-square&logoColor=white) |
 
 </div>
